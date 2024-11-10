@@ -16,3 +16,7 @@
 [Tracciamento di un diagramma con matlab](tracciamento%20dei%20diagrammi%20delle%20cds%20con%20matlab.pdf)
 
 [Esercitazione%208%20novembre%202024%20piazza%20telematica.pdf](Esercitazione%208%20novembre%202024%20piazza%20telematica.pdf)
+
+![](Taglio%20ostia%20%20%20%20%20%20%20%20%20%20%20%20.pdf)
+
+![](Taglio%20Roma%20%20%20%20%20%20.pdf)
