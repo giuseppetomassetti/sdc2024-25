@@ -14,8 +14,6 @@
 
 [Tracciamento di un diagramma con matlab](tracciamento%20dei%20diagrammi%20delle%20cds%20con%20matlab.pdf)
 
+[Torsione Roma](Torsione%20Roma.pdf)
 
-![](Taglio%20Roma%20%20%20%20%20%20.pdf)
-
-![](Torsione%20Roma.pdf)
-
+[Torsione Roma](Torsione%20ostia%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20.pdf)
