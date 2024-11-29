@@ -14,6 +14,8 @@
 
 [Tracciamento di un diagramma con matlab](tracciamento%20dei%20diagrammi%20delle%20cds%20con%20matlab.pdf)
 
-[Torsione Roma](Torsione%20Roma.pdf)
+[Torsione ostia](Torsione%20ostia.pdf)
 
 [Torsione Roma](Torsione%20ostia%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20.pdf)
+
+[Esercitazione roma 20241129](Esercitazione%20roma%2029112024.pdf)
