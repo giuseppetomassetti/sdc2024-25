@@ -20,7 +20,7 @@
 
 ---
 ### Esercitazione Roma 20241129
-![](Pasted%20image%2020241130064320.png)
+![Immagine|400](Pasted%20image%2020241130064320.png)
 [Eseqwes
 rcitazione roma 20241129](Esercitazione%20roma%2029112024.pdf)
 [Registrazione](https://uniroma3.sharepoint.com/:v:/r/sites/aa2425scienzadellecostruzioni20801971tomassetti/Documenti%20condivisi/General/Recordings/Solo%20visualizzazione/Meeting%20in%20_General_-20241129_171520-Meeting%20Recording.mp4?csf=1&web=1&e=S9KwUT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
