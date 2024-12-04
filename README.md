@@ -30,3 +30,5 @@
 ---
 
 ![](trasformazione%20delle%20tensioni%20roma%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20.pdf)
+
+![](Esercitazione%204%20dicembre%20ostia.pdf)
