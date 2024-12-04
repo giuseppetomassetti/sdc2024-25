@@ -28,3 +28,5 @@
 [Registrazione](https://uniroma3.sharepoint.com/:v:/r/sites/aa2425scienzadellecostruzioni20801971tomassetti/Documenti%20condivisi/General/Recordings/Solo%20visualizzazione/Meeting%20in%20_General_-20241129_171520-Meeting%20Recording.mp4?csf=1&web=1&e=S9KwUT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ---
+
+![](trasformazione%20delle%20tensioni%20roma%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20.pdf)
