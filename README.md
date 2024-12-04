@@ -17,3 +17,5 @@
 [Torsione Roma](Torsione%20Roma.pdf)
 
 [Torsione Roma](Torsione%20ostia%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20.pdf)
+
+![](Formulazione%20del%20problema%20elastico%20per%20la%20trave.pdf)
