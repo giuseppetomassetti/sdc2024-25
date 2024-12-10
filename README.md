@@ -18,8 +18,7 @@
 
 [Torsione Roma](Torsione%20ostia%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20.pdf)
 
-![](Formulazione%20del%20problema%20elastico%20per%20la%20trave.pdf)
----
+[Formulazione problema equilibrio trave (Ostia)](Formulazione%20del%20problema%20elastico%20per%20la%20trave.pdf)
 ### Esercitazione Roma 20241129
 ![Immagine|400](Pasted%20image%2020241130064320.png)
 
