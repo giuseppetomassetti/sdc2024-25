@@ -32,3 +32,5 @@
 ![](trasformazione%20delle%20tensioni%20roma%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20.pdf)
 
 ![](Esercitazione%204%20dicembre%20ostia.pdf)
+
+![](Formulazione%20del%20problema%20dell'equilibrio%20per%20sistemi%20di%20travi%20.pdf)
